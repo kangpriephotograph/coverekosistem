@@ -1,0 +1,5 @@
+{
+  "name": "Pembuat Cover Buku AI",
+  "description": "Aplikasi untuk membuat cover buku secara otomatis menggunakan AI berdasarkan tema yang Anda masukkan.",
+  "requestFramePermissions": []
+}
